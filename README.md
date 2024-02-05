@@ -2,7 +2,9 @@
 
 A simple tic tac toe game using Angular. The purpose of this project is to exercise logic by creating a very simple game. It helps to visualize components and practice directives.
 
+<p align="center">
 ![game image example](image.png)
+</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
